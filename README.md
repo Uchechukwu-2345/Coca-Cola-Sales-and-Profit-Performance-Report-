@@ -46,6 +46,9 @@ The project is implemented entirely using Microsoft Excel
 The scope of this project includes:
 This dataset captures Coca-Cola’s sales and profit performance across different retailers, regions, and beverage brands in 2022. It provides insights into sales volume, revenue, profitability, and delivery efficiency to help optimize business strategy.
 
+<img width="617" alt="Cocal_Cola Dashboard" src="https://github.com/user-attachments/assets/b8f538f0-b17e-4093-b2e7-59d58d836820" />
+
+
 ### 7.Key Findings and Insights
 Retailers’ Contribution:
 The analysis reveals that Walmart dominates Coca-Cola’s retail market, generating $4.40 million in total sales, which exceeds the combined total of the other retailers — Target ($404.41K), Costco ($1.29M), and CVS ($2.12M). This suggests that Walmart holds a substantial market share, possibly due to its expansive distribution network, competitive pricing, or long-standing consumer loyalty.
